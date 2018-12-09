@@ -11,13 +11,12 @@ $(document).ready(function() {
   var qN6 = $("input:radio[name=type]:checked").val();
 
   var youScore = parseInt(qN1)+parseInt(qN2)+parseInt(qN3)+parseInt(qN4)+parseInt(qN5)+parseInt(qN6);
-  $("#youScore").text("HEY THERE! HERE IS WHAT YOU SCORED: " + youScore + " marks out of a possible 96 marks");
+    $("#youScore").text("HEY THERE! THIS IS WHAT YOU SCORED: " + youScore + " marks out of a possible 96 marks");
 
       //==== User Interface ====//
 
   $("form#formOne").slideUp(1250);
-  $("#youScore").show(500000);
-  $("form#formOne").slideDown();
+  $("#youScore").show(3000);
     event.preventDefault();
    });
 

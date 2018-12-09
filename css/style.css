@@ -1,6 +1,6 @@
 .btn{
-  background-color: black;
-  color: white;
+  background-color: white;
+  color: hotpink;
 }
 body{
   background-image: url(bg.jpg);
@@ -19,6 +19,6 @@ h1{
   color: firebrick;
 }
 #youScore{
-  font-size: 3.5em;
+  font-size: 3em;
   font-style: italic;
 }
