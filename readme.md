@@ -6,6 +6,8 @@ By: James Mwangi Nduge
 ## Description
 The website has questions with multi-choice answers, and each correct answer awards the user 16marks.
 
+website url: https://jamesnduge.github.io/ip-quiz/
+
 ## Setup/Installation Requirements
 * As long as you have a compatible browser the document will work.
 * When a question is left unanswered, the program will return a mark of NaN meaning 'not a number' hence ensure you answer all questions.
