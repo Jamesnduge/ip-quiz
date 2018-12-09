@@ -18,3 +18,7 @@ h1{
 .em{
   color: firebrick;
 }
+#youScore{
+  font-size: 3.5em;
+  font-style: italic;
+}
