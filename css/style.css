@@ -2,3 +2,16 @@
   background-color: black;
   color: white;
 }
+body{
+  background-image: url(bg.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.jumbotron{
+  background-color: skyblue;
+}
+h1{
+  text-align:center;
+  font-family: monospace;
+  text-decoration: underline;
+}
